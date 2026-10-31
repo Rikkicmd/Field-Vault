@@ -4,7 +4,7 @@
 
 A private, offline notebook for security and engineering work. Survey notes, IP lists, configs, credentials, photos and tasks stay encrypted on your phone, with no internet access and no cloud account.
 
-**[Download FieldVault.apk](FieldVault.apk)** (v2.3, Android 7.0 or newer) · **[Brochure (PDF)](FieldVault-brochure.pdf)**
+**[Download FieldVault.apk](FieldVault.apk)** (v2.4, Android 7.0 or newer) · **[Brochure (PDF)](FieldVault-brochure.pdf)**
 
 ## Install
 1. Open this page on your Android phone and download **FieldVault.apk**.
@@ -25,4 +25,4 @@ Updates install over the previous version and keep your notes.
 Notes with headings, checklists, tables and photos · IP and host lists · credentials · code and config snippets · tasks with due dates · bookmarks · templates · encrypted backup files you can share to another phone · print or save any page as an A4 PDF.
 
 ## Checksum
-SHA-256 of FieldVault.apk: `2cb2eebf9d22a57fa44d2a66efce464c6be2bb7729585448ec5c0ed645709b11`
+SHA-256 of FieldVault.apk: `59bd0a04033d87a86f96808ceb052309a02f56620c52924464371e5c7d3a6cdb`
